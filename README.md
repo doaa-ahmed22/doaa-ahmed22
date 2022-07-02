@@ -50,7 +50,7 @@ _ I'm currently learning IOT🌱🐱‍🏍
 </p>
 <a href="http://www.github.com/doaa-ahmed22"><img src="https://activity-graph.herokuapp.com/graph?username=shadyaziza&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-## Watch my contribution graph eaten by the snake🐍
+## Watch the contribution graph eaten by the snake🐍
   ![snake gif](https://github.com/narayanbavisetti/narayanbavisetti/blob/output/github-contribution-grid-snake.gif)
 
 
