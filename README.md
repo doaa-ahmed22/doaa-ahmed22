@@ -15,7 +15,6 @@ _ I'm currently learning IOT🌱🐱‍🏍
 <p  > </a>
 <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> 
   
-
 </a>
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
 </a>
@@ -41,9 +40,9 @@ _ I'm currently learning IOT🌱🐱‍🏍
   
   <h2>Socials </h2>
 
-<p align="left"> <a href="https://discord.com/users/Doaa Ahmed#5674" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
-  <a href="https://github.com/doaa-ahmed22" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> 
-  <a href="https://www.linkedin.com/in/doaa-ahmed-20/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+<p align="left"> <a href="https://discord.com/users/Doaa Ahmed#5674" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </a>
+  <a href="https://github.com/doaa-ahmed22" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /> </a> 
+  <a href="https://www.linkedin.com/in/doaa-ahmed-20/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </a>
  
 </p>
 
