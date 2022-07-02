@@ -45,11 +45,12 @@ _ I'm currently learning IOT🌱🐱‍🏍
   <a href="https://discord.com/users/Doaa Ahmed#5674" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </a>
   <a href="https://github.com/doaa-ahmed22" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /> </a> 
   <a href="https://www.linkedin.com/in/doaa-ahmed-20/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </a>
-    <a href="https://www.instagram.com/doaaahmed390/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> 
+    <a href="https://www.instagram.com/doaaahmed390/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </a> 
    
 </p>
 <a href="http://www.github.com/doaa-ahmed22"><img src="https://activity-graph.herokuapp.com/graph?username=shadyaziza&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
+## Watch my contribution graph eaten by the snake🐍
   ![snake gif](https://github.com/narayanbavisetti/narayanbavisetti/blob/output/github-contribution-grid-snake.gif)
 
 
