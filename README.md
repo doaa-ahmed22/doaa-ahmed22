@@ -26,24 +26,20 @@ _ I'm currently learning IOT🌱🐱‍🏍
 <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
- 
-
 <!-- 
-<img align="left" alt=“Java” width="26px" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" /> 
+<p><img align="left" alt=“Flutter” width="26px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" />
 <p><img align="left" alt=“Dart” width="26px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" /> 
+<img align="left" alt=“Firebase” width="26px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" /> 
+<img align="left" alt=“Java” width="26px" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" /> 
 <img align="left" alt=“Android” width="26px" src="https://www.vectorlogo.zone/logos/android/android-icon.svg" />
 <img align="left" alt=“Trello” width="26px" src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" />
-
-<p><img align="left" alt=“Flutter” width="26px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" />
-<img align="left" alt=“Firebase” width="26px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" /> 
-
 <img align="left" alt=“Postman” width="26px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
 <img align="left" alt=“Git” width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
  <br/>
  <br/> -->
 <hr>
-   </p>
-## Socials
+  
+  <h2>Socials </h2>
 
 <p align="left"> <a href="https://discord.com/users/Doaa Ahmed#5674" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
   <a href="https://github.com/doaa-ahmed22" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> 
