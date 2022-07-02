@@ -10,12 +10,10 @@ _ Self-taught Programmer💻
 _Open Source Software❤️   
 _ I'm currently learning IOT🌱🐱‍🏍  
 
-<img
-  src="https://github.com/<doaa-ahmed22>/<repository-name>/blob/<branch-name>/images/stat.svg"
-  alt="Alternative Text"
-/>
-Example:
-<img
-  src="https://github.com/avinal/avinal/blob/main/images/stat.svg"
-  alt="Avinal WakaTime Activity"
-/>
+<div align="center">
+
+
+[![doaa's github stats](https://github-readme-stats.vercel.app/api?username=doaa-ahmed22&show_icons=true&title_color=2257EA&icon_color=2257EA&bg_color=f7f7f7)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doaa-ahmed22&title_color=2257EA&bg_color=f7f7f7&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
