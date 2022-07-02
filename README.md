@@ -13,7 +13,7 @@ _ I'm currently learning IOT🌱🐱‍🏍
   <h2>Skills </h2>
 
 <p  > </a>
-<a href="https://android studio.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="bash" width="40" height="40"/>
+<a href="https://android.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="bash" width="40" height="40"/>
 </a>
 <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> 
 </a>
