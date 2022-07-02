@@ -26,7 +26,7 @@ _ I'm currently learning IOT🌱🐱‍🏍
 <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  </p>
+ 
 
 <!-- 
 <img align="left" alt=“Java” width="26px" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" /> 
@@ -42,6 +42,7 @@ _ I'm currently learning IOT🌱🐱‍🏍
  <br/>
  <br/> -->
 <hr>
+   </p>
 ### Socials
 
 <p align="left"> <a href="https://discord.com/users/Doaa Ahmed#5674" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
