@@ -13,6 +13,10 @@ _ I'm currently learning IOT🌱🐱‍🏍
   <h2>Skills </h2>
 
 <p  > </a>
+
+<a href="https://" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="bash" width="40" height="40"/>
+
+
 <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> 
   
 </a>
@@ -34,6 +38,7 @@ _ I'm currently learning IOT🌱🐱‍🏍
 <img align="left" alt=“Trello” width="26px" src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" />
 <img align="left" alt=“Postman” width="26px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
 <img align="left" alt=“Git” width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
+<img align="left" alt=“Android” width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
  <br/>
  <br/> -->
 <hr>
