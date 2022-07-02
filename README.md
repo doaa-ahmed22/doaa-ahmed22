@@ -16,7 +16,7 @@ _ I'm currently learning IOT🌱🐱‍🏍
 
 <a href="https://" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="bash" width="40" height="40"/>
 
-
+</a>
 <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> 
   
 </a>
