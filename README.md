@@ -10,7 +10,7 @@ _ Self-taught Programmer💻
 _Open Source Software❤️   
 _ I'm currently learning IOT🌱🐱‍🏍  
 
-  <h2>My Languages and Tools </h2>
+  <h2>Skills </h2>
 
 <p  > </a>
 <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> 
