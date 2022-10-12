@@ -51,7 +51,7 @@ _ I'm currently learning IOT🌱🐱‍🏍
     <a href="https://www.instagram.com/doaaahmed390/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </a> 
    
 </p>
-<a href="http://www.github.com/doaa-ahmed22"><img src="https://activity-graph.herokuapp.com/graph?username=shadyaziza&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
 
 ## Watch the contribution graph eaten by the snake🐍
  ![Snake animation](https://github.com/doaa-ahmed22/doaa-ahmed22/blob/output/github-contribution-grid-snake.svg)
