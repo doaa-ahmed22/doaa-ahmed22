@@ -8,7 +8,7 @@ I'm a Mobile App Developer from Egypt🐱‍🏍.
 _ Flutter Developer🛠        
 _ Self-taught Programmer💻    
 _Open Source Software❤️   
-_ I'm currently learning IOT🌱🐱‍🏍  
+_ I'm currently learning IoT🌱🐱‍🏍  
 
   <h2>Skills </h2>
 
